@@ -1,6 +1,6 @@
 {
   "name": "ngx-mqtt",
-  "version": "17.0.0",
+  "version": "18.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/sclausen/ngx-mqtt.git"
