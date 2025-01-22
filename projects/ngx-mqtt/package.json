@@ -29,6 +29,7 @@
   "dependencies": {
     "mqtt-browser": "4.3.7",
     "mqtt-packet": "^6.10.0",
+    "ngx-mqtt": "file:",
     "tslib": "^2.3.0"
   },
   "sideEffects": false

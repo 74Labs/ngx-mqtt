@@ -41,6 +41,7 @@
     "mqtt": "^4.3.7",
     "mqtt-browser": "^4.3.7",
     "mqtt-packet": "^8.1.2",
+    "ngx-mqtt": "file:",
     "rxjs": "~7.8.0",
     "tslib": "^2.6.2",
     "url": "^0.11.0",
